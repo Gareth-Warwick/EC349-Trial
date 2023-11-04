@@ -368,3 +368,7 @@ Wow, check out everything we covered in this blog post:
 
 
 As you can see, tidyverse packages are very powerful tools for loading, cleaning, and inspecting data so that you can begin analyzing your data right away! And remember, you can load all of these packages at once with <span style="color:magenta">library(tidyverse)</span>.
+
+
+
+Trying to do stuff here

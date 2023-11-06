@@ -18,3 +18,4 @@ fit4<-smooth.spline(x,y,spar=0.2)
 
 plot(fit2)
 plot(fit3)
+

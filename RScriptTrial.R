@@ -15,3 +15,4 @@ x+3
 #Hi i'm trying again
 
 #So apparently I need to commit, then when I edit and save on this RStudio document, only then can I push to GitHub
+x+7
